@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "x64asm-rs",
+    "x64asm-sys",
+]
+resolver = "2"
